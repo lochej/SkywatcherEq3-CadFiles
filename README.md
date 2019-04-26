@@ -5,8 +5,8 @@ Especially designed for QMOT QSH4218 motors.
 
 The files were designed in Fusion 360 for a Polytech Tours School project.
 
-![Ah Motor mount](/AhMotorMount)
+![Ah Motor mount](AhMotorMount.jpg)
 
-![Dec Motor mount](/AhMotorMount)
+![Dec Motor mount](AhMotorMount.jpg)
 
-![FeetClip](/FeetClip)
+![FeetClip](FeetClip.jpg)
