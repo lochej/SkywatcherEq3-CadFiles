@@ -7,6 +7,6 @@ The files were designed in Fusion 360 for a Polytech Tours School project.
 
 ![Ah Motor mount](AhMotorMount.jpg)
 
-![Dec Motor mount](AhMotorMount.jpg)
+![Dec Motor mount](DecMotorMount.jpg)
 
 ![FeetClip](FeetClip.jpg)
